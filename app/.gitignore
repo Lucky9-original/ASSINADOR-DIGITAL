@@ -1,0 +1,6 @@
+# .gitignore
+node_modules/
+*.log
+*.class
+build/
+.DS_Store

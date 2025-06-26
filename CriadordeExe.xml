@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\lucia\Documents\Projetos Programação\Programa de Assinaturas\Assinador\app\build\libs\Assinador-2.0.jar</jar>
+  <outfile>C:\Users\lucia\Documents\Projetos Programação\Programa de Assinaturas\Assinador\assinador.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\lucia\Documents\Projetos Programação\Programa de Assinaturas\Assinador\app\src\main\resources\marca.ico</icon>
+  <jre>
+    <path>jre;%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.2.0.0</fileVersion>
+    <txtFileVersion>prod-2.1</txtFileVersion>
+    <fileDescription>Assinador Digital de Documentos</fileDescription>
+    <copyright>LK9</copyright>
+    <productVersion>2.2.0.0</productVersion>
+    <txtProductVersion>prod-2.2</txtProductVersion>
+    <productName>Assinador</productName>
+    <companyName>LK9</companyName>
+    <internalName>Assinador</internalName>
+    <originalFilename>Assinador.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>PORTUGUESE_PORTUGAL</language>
+  </versionInfo>
+</launch4jConfig>
